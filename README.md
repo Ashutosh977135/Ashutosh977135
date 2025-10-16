@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @AshutoshTiwari
-- 👀 I have recently completed my MCA in 2024 and As a fresher currently i am looking for job in IT industry I have also done 6 months of live projet orinted internship in adwance JAVA with spring MVC from Kamadgiri software Solution P (Ltd).
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
+# 👋 Hi, I'm Ashutosh Tiwari  
 
-<!---
-Ashutosh977135/Ashutosh977135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀Full Stack Developer | React.js | JavaScript | Tailwind CSS | Node js 
+
+💡 Passionate about building clean, responsive, and user-friendly web applications.  
+🔭 Currently working on: Job Portal App with Resume Parser  
+🌱 Learning: TypeScript & Next.js  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashutoshtiwari-/) | [Portfolio](https://my-portfolio-seven-cyan-80.vercel.app/)
+
+### 🧰 Tech Stack
+- React.js | JavaScript | Tailwind CSS | HTML | CSS
+- Redux Toolkit | REST APIs | Git & GitHub
+
+ 
